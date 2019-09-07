@@ -20,7 +20,3 @@ construction and x86 assembly. Quick getting-started guide: MikeOS can
 run from a floppy disk or CD-ROM, either on an emulator or a real PC. 
 See the disk_images/ directory for files that you can write to the 
 appropriate media or boot in, for instance, VMware, QEMU or VirtualBox."
-
-```
-Copyright (C) 2006 - 2014 MikeOS Developers -- see doc/LICENSE.TXT
-```
