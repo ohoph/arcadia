@@ -1,12 +1,4 @@
-Fork of MikeOS
-==============
-
-Open source 16-bit operating system for x86 PCs
------------------------------------------------
-
-```
-Copyright (C) 2006 - 2014 MikeOS Developers -- see doc/LICENSE.TXT
-```
+ARCADIA - a fork of mikeOS 
 
 "MikeOS is a 16-bit real mode operating system for x86-compatible PCs, 
 written entirely in assembly language, which boots from a floppy disk,
@@ -20,3 +12,7 @@ construction and x86 assembly. Quick getting-started guide: MikeOS can
 run from a floppy disk or CD-ROM, either on an emulator or a real PC. 
 See the disk_images/ directory for files that you can write to the 
 appropriate media or boot in, for instance, VMware, QEMU or VirtualBox."
+
+```
+Copyright (C) 2006 - 2014 MikeOS Developers -- see doc/LICENSE.TXT
+```
