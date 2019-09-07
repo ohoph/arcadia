@@ -1,4 +1,10 @@
-ARCADIA - a fork of mikeOS 
+**ARCADIA - a fork of mikeOS**
+*simple 16-bit operating system in real mode*
+
+
+```
+Copyright (C) 2006 - 2014 MikeOS Developers -- see doc/LICENSE.TXT
+```
 
 "MikeOS is a 16-bit real mode operating system for x86-compatible PCs, 
 written entirely in assembly language, which boots from a floppy disk,
